@@ -8,8 +8,10 @@ Had to make a lightweight app, since the official app was taking too much of res
 
 - **Lightweight** and uses less resources
 - User agent updated to latest
-- oGraph improvements, copy-paste improvements, and handling of media are improved
+- oGraph improvements, drag-drop, copy-paste improvements, and handling of media are improved
 - **Privacy Screen Feature** (press `Alt+P` to activate)
+- **Missed Chat Feature** - captures chat while you are away, even those deleted. (press `Alt+H` to activate)
+- Added Linux Appimage support + Installer.
 - And others...
 
 ## More Information
