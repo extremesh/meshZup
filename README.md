@@ -17,6 +17,7 @@ Had to make a lightweight app, since the official app was taking too much of res
 ## Missed Chat, Deleted Chats & Privacy Screen Features
 
 ![meshZup Screenshot2](meshZup-Screen-2.png)
+
 ![meshZup Screenshot3](meshZup-Screen-3.png)
 
 ## More Information
