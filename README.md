@@ -14,6 +14,11 @@ Had to make a lightweight app, since the official app was taking too much of res
 - Added Linux Appimage support + Installer.
 - And others...
 
+## Missed Chat, Deleted Chats & Privacy Screen Features
+
+![meshZup Screenshot2](meshZup-Screen-2.png)
+![meshZup Screenshot3](meshZup-Screen-3.png)
+
 ## More Information
 
 **Website:** [https://my.ramx.cc/meshZup](https://my.ramx.cc/meshZup)
